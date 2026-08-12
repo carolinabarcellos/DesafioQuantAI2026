@@ -1,10 +1,10 @@
-# Hybrid Quant — Desafio Quant AI 2026 (Itaú Asset)
+# Nexus — Desafio Quant AI 2026 (Itaú Asset)
 
 <p align="center">
   <img src="robo.png" alt="Hybrid Quant Robot" width="280"/>
 </p>
 
-O **Hybrid Quant** é uma solução de investimento quantitativo focada no mercado acionário brasileiro (B3) desenvolvida para o **Desafio Quant AI 2026 da Itaú Asset**. 
+O **Nexus** é uma solução de investimento quantitativo focada no mercado acionário brasileiro (B3) desenvolvida para o **Desafio Quant AI 2026 da Itaú Asset**. 
 
 O projeto combina o poder de extração de padrões não lineares do **Deep Learning (MLP)** com a transparência e interpretabilidade matemática da **Estatística Clássica (GLM)**, executando uma estratégia *Long-Short* focada em neutralidade de mercado e geração de *Alpha*.
 
