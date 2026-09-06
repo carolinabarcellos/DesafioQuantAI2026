@@ -121,7 +121,3 @@ pip install yfinance pandas numpy scikit-learn matplotlib
 * **Carolina Barcellos**
 * **Gabrielly Xavier**
 * **Matheus Soares**
-
-```
-
-```
