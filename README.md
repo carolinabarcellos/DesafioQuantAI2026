@@ -118,6 +118,6 @@ pip install yfinance pandas numpy scikit-learn matplotlib
 
 ## 👥 Autores
 
-* **Carolina Barcellos**
-* **Gabrielly Xavier**
-* **Matheus Soares**
+* **[Carolina Barcellos](https://github.com/carolinabarcellos)**
+* **[Gabrielly Xavier](https://github.com/gabyxsantos)**
+* **[Matheus Soares](https://github.com/Doctor-Math)**
